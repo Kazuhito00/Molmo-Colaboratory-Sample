@@ -13,5 +13,8 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 # License 
 Molmo-Colaboratory-Sample is under [Apache-2.0 license](LICENSE).
 
+# License(Image)
+サンプル実行用に格納している画像は、[ぱくたそ](https://www.pakutaso.com)様の[三越と大丸がある天神の交差点](https://www.pakutaso.com/20210618154post-35149.html)を利用しています。
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
